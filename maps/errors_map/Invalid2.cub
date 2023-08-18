@@ -1,0 +1,7 @@
+EA ./textures/Wall_East.png			    
+NO ./textures/Wall_North.png
+SO ./textures/Wall_South.png
+WE ./textures/Wall_West.png
+F 42,42,42
+C 12,127,250
+

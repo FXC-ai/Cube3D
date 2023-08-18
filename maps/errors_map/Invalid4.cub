@@ -1,0 +1,11 @@
+
+EA ./textures/Wall_East.png			    
+NO ./textures/Wall_North.png
+SO              ./textures/Wall_South.png
+WE ./textures/Wall_West.png         
+
+C 155,100,160
+F 111,111,111
+
+111
+1S1

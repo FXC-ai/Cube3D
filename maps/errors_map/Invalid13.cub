@@ -1,0 +1,13 @@
+
+EA ./textures/Wall_East.png			    
+NO ./textures/Wall_North.png
+SO ./textures/Wall_South.png
+WE ./textures/Wall_West.png
+
+F 220,111,119
+C 225,111,200
+
+11111111
+10000001
+10000001
+11111111
