@@ -1,6 +1,6 @@
 # Cube3D
 
-Je vous partage ici quelaues notes prises au cours du développement du projet cub3d de l'école 42. Je les mets ici pour mémoire.
+Je vous partage ici quelques notes prises au cours du développement du projet cub3d de l'école 42.
 
 # Démonstration fonctionnement de la MiniLibX
 
