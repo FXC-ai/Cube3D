@@ -288,7 +288,7 @@ Il y a 4 cas litigieux (NE NW SE SW). Ce sont les pixels pouvant prendre une cou
 - 4 et 5 : le rayon arrive de l'est donc ==> texture EST. Dans ce cas le rayon arrive horizontalement.
 - 3 : le rayon arrive en diagonale et la je ne sais pas trop quoi faire. J'ai 2 idées : soit on le met en noir ? soit on choisit arbitrairement une une des 2 textures qu'on aura prédertéminé à l'avance ?
 
-![cubissue.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2eedbc41-2779-4cb2-944e-af810946b0bd/cubissue.jpg)
+![cubissue.jpg](https://github.com/FXC-ai/Cube3D/blob/main/cubissue.jpg)
 
 Pour être tout a fait clair je vais essayer de lister les étapes de l'algorithme pour le cas du pixel B de coordonnées (9;9)
 1/ On détermine les 2 possibilité de texture : EST ou SUD (c'est déjà codé).
